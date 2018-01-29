@@ -23,6 +23,8 @@ nav {
 
 .hero__description {
   margin: 2rem auto 1rem auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .hero__terminal {
