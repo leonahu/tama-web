@@ -111,13 +111,15 @@ textarea, input, button { outline: none; }
 
 /* buttons */
 .button--primary {
-  padding: 1rem 22px;
+  font-size: 1em;
+  padding: 1em 22px;
   background-color: var(--accent-color);
   color: white;
   position: relative;
   text-decoration: none;
   border: 0;
   transition: all .3s ease-out;
+  cursor: pointer;
 }
 
 .button--primary:after {
